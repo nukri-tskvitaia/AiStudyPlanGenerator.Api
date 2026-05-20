@@ -1,0 +1,6 @@
+@AiStudyPlanGenerator.Api_HostAddress = http://localhost:5177
+
+POST {{AiStudyPlanGenerator.Api_HostAddress}}/api
+Accept: application/json
+
+###
